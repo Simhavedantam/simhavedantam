@@ -28,6 +28,12 @@ SCAN_STATEMENT = "Enter The Value:"
 #     def scan_data(self):
 #         return str(input(self.data))
 #
+#
+# printer = MyClass(PRINT_STATEMENT)
+# scanner = MyClass(SCAN_STATEMENT)
+#
+# print(printer.print_data())
+# print(scanner.scan_data())
 
 
 class AbstractClass(ABC):
